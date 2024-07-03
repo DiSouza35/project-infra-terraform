@@ -6,6 +6,6 @@ API infrastructure automation.
 aws/Lab1
 ### Description:
 Complete process of automating an application with API making the interaction between the front-end and the back-end.
-### tools
+### Tools
 - AWS;
 - Terraform.
